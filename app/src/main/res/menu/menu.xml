@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/it1"
+        android:checkable="true"
+        android:title="顯示測速照相位置" />
+    <item
+        android:id="@+id/it2"
+        android:checkable="true"
+        android:title="顯示交通狀況" />
+    <item
+        android:id="@+id/it5"
+        android:checkable="true"
+        android:title="開啟密錄器" />
+    <item
+        android:id="@+id/it6"
+        android:checkable="true"
+        android:title="開啟傻瓜相機" />
+    <item
+        android:id="@+id/it3"
+        android:title="標記停車位置" />
+    <item
+        android:id="@+id/it7"
+        android:title="找尋我的車子" />
+    <item
+        android:id="@+id/it4"
+        android:title="清除所有標記" />
+</menu>
